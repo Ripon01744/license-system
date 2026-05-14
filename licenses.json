@@ -1,0 +1,13 @@
+{
+  "LIC-123456": {
+    "domain": "playkoro.com",
+    "expiry": "2027-01-01",
+    "status": "active"
+  },
+
+  "LIC-999999": {
+    "domain": "",
+    "expiry": "2026-12-31",
+    "status": "active"
+  }
+}
