@@ -1,8 +1,8 @@
 [
     {
         "key": "LIC-123456",
-        "domain": "",
-        "domain_hash": "",
+        "domain": "playkoro.com",
+        "domain_hash": "46a2442b1d2d3b14ff24b27f644760be8e157db077b08df9fb09a0e3d6f6dbb5",
         "status": "active",
         "expires_at": "2027-01-01",
         "issued_to": "PlayKoro"
