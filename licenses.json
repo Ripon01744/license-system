@@ -8,9 +8,9 @@
         "issued_to": "PlayKoro"
     },
     {
-        "key": "LIC-999999",
+        "key": "LIC-112233",
         "domain": "",
-        "domain_hash": "goalybet.com",
+        "domain_hash": "",
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
