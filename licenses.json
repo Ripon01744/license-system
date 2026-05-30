@@ -9,8 +9,8 @@
     },
     {
         "key": "LIC-98",
-        "domain": "",
-        "domain_hash": "",
+        "domain": "goalybet.com",
+        "domain_hash": "e45689bd1219a6bfa65179e8a39ce7df771031b30825406c4370b2c3f94c5f93",
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
