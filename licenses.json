@@ -1,14 +1,14 @@
 [
     {
-        "key": "LIC-123456",
+        "key": "LIC-10",
         "domain": "",
         "domain_hash": "",
         "status": "active",
         "expires_at": "2027-01-01",
-        "issued_to": "PlayKoro"
+        "issued_to": ""
     },
     {
-        "key": "LIC-112233",
+        "key": "LIC-98",
         "domain": "",
         "domain_hash": "",
         "status": "active",
