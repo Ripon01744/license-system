@@ -9,8 +9,8 @@
     },
     {
         "key": "LIC-112233",
-        "domain": "goalybet.com",
-        "domain_hash": "053692c52eac2fd056542a33c0e8abfd6ecffd48b0a1705f0b68155449266f88",
+        "domain": "",
+        "domain_hash": "",
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
