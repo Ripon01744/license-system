@@ -1,16 +1,16 @@
 [
     {
         "key": "LIC-10",
-        "domain": "goalybet.com",
-        "domain_hash": "cd64e4b04486e014dc1044ede4b798550e53a8cbb0e3879661a70696cfb90415",
+        "domain": "",
+        "domain_hash": "",
         "status": "active",
         "expires_at": "2027-01-01",
         "issued_to": ""
     },
     {
         "key": "LIC-98",
-        "domain": "goalybet.com",
-        "domain_hash": "e45689bd1219a6bfa65179e8a39ce7df771031b30825406c4370b2c3f94c5f93",
+        "domain": "",
+        "domain_hash": "",
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
