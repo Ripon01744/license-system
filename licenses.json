@@ -9,24 +9,24 @@
     },
     {
         "key": "LIC-98",
-        "domain": "playkoro.com",
-        "domain_hash": "b46f0bd49143811f2ba3217653c4c8f952ffacdfc97dc7c08d3dd60faf4aab76",
+        "domain": "",
+        "domain_hash": "",
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
     },
     {
         "key": "LIC-201",
-        "domain": "playkoro.com",
-        "domain_hash": "d5a30c937fee8cae0397614ef3556bb7e03b3cad04395368cfc35da5ae45cf95",
+        "domain": "",
+        "domain_hash": "",
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
     },
     {
         "key": "LIC-200",
-        "domain": "playkoro.com",
-        "domain_hash": "8e5da73e36b4d2fa784b3b3627eb2232311073034906de9446afa1becc24b78b",
+        "domain": "",
+        "domain_hash": "",
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
