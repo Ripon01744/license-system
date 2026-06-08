@@ -30,8 +30,8 @@
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
-    }
-        {
+    },
+    {
         "key": "LIC-202",
         "domain": "",
         "domain_hash": "",
