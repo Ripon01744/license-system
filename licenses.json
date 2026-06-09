@@ -25,8 +25,8 @@
     },
     {
         "key": "LIC-200",
-        "domain": "",
-        "domain_hash": "",
+        "domain": "playkoro.com",
+        "domain_hash": "4a2589839e9f3bc0656b16d28e3bf8808e69e4bd71df0f0d1147126358124198",
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
