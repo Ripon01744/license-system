@@ -1,8 +1,8 @@
 [
     {
         "key": "LIC-10",
-        "domain": "playkoro.com",
-        "domain_hash": "bee945cb36492bd54a17323a4ee02e8636c426aa66652acf4a105635e5834e5b",
+        "domain": "",
+        "domain_hash": "",
         "status": "active",
         "expires_at": "2027-01-01",
         "issued_to": ""
