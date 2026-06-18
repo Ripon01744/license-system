@@ -1,8 +1,8 @@
 [
     {
         "key": "LIC-10",
-        "domain": "playkoro.com",
-        "domain_hash": "139d514cf9fcf6fe1e9d09761aa40fc7865670b74fc7364a3f7f1ac8aafecc4b",
+        "domain": "",
+        "domain_hash": "",
         "status": "active",
         "expires_at": "2027-01-01",
         "issued_to": ""
@@ -24,15 +24,15 @@
         "issued_to": ""
     },
     {
-        "key": "LIC-200",
-        "domain": "playkoro.com",
+        "key": "LIC-",
+        "domain": "",
         "domain_hash": "",
         "status": "active",
         "expires_at": "2027-12-31",
         "issued_to": ""
     },
     {
-        "key": "LIC-202",
+        "key": "LIC-",
         "domain": "",
         "domain_hash": "",
         "status": "active",
@@ -40,15 +40,7 @@
         "issued_to": ""
     },
     {
-        "key": "LIC-203",
-        "domain": "playkoro.com",
-        "domain_hash": "7938482ef0e088b3becb1a77ab764f47a41fd20874d5a265de4389c721cbb26f",
-        "status": "active",
-        "expires_at": "2027-12-31",
-        "issued_to": ""
-    },
-    {
-        "key": "LIC-204",
+        "key": "LIC-",
         "domain": "",
         "domain_hash": "",
         "status": "active",
@@ -56,7 +48,15 @@
         "issued_to": ""
     },
     {
-        "key": "LIC-205",
+        "key": "LIC-",
+        "domain": "",
+        "domain_hash": "",
+        "status": "active",
+        "expires_at": "2027-12-31",
+        "issued_to": ""
+    },
+    {
+        "key": "LIC-",
         "domain": "",
         "domain_hash": "",
         "status": "active",
