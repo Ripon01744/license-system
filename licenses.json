@@ -1,19 +1,18 @@
 [
-  {
-    "key": "PK-123",
-    "status": "active",
-    "issued_to": "",
-    "expires_at": "2029-12-31",
-    "domain": "",
-    "domain_hash": ""
-  },
-  {
-    "key": "LIC-10",
-    "status": "active",
-    "issued_to": "D",
-    "expires_at": "2029-06-30",
-    "domain": "",
-    "domain_hash": ""
-  }
+    {
+        "key": "PK-123",
+        "status": "active",
+        "issued_to": "",
+        "expires_at": "2029-12-31",
+        "domain": "",
+        "domain_hash": ""
+    },
+    {
+        "key": "LIC-10",
+        "status": "active",
+        "issued_to": "D",
+        "expires_at": "2029-06-30",
+        "domain": "editlabpro.com",
+        "domain_hash": "3ce4571d3552e4bf329106a1f4d60d593ca1e1928a142676ddf3702b8d346f47"
+    }
 ]
-
