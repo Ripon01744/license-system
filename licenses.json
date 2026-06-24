@@ -4,8 +4,8 @@
         "status": "active",
         "issued_to": "",
         "expires_at": "2029-12-31",
-        "domain": "editlabpro.com",
-        "domain_hash": "3ce4571d3552e4bf329106a1f4d60d593ca1e1928a142676ddf3702b8d346f47"
+        "domain": "",
+        "domain_hash": ""
     },
     {
         "key": "LIC-10",
