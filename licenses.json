@@ -1,18 +1,45 @@
-[
-    {
-        "key": "PK-123",
-        "status": "active",
-        "issued_to": "",
-        "expires_at": "2029-12-31",
-        "domain": "editlabpro.com",
-        "domain_hash": "fdce1e043447a785ae0b7213869063793368e27936c902e938185d3e326941b0"
+{
+  "licenses": {
+    "PK-OPEN-ANY-0001": {
+      "key": "PK-OPEN-ANY-0001",
+      "status": "active",
+      "expires_at": "2030-12-31",
+      "domains": [],
+      "install_id": "",
+      "note": "Open key - jekono domain e cholbe",
+      "nonce": "",
+      "sig": ""
     },
-    {
-        "key": "LIC-10",
-        "status": "active",
-        "issued_to": "D",
-        "expires_at": "2029-06-30",
-        "domain": "editlabpro.com",
-        "domain_hash": ""
+    "PK-MAIN-SITE-0002": {
+      "key": "PK-MAIN-SITE-0002",
+      "status": "active",
+      "expires_at": "2034-12-31",
+      "domains": ["pori777.com", "www.pori777.com"],
+      "install_id": "",
+      "note": "Main site license",
+      "nonce": "",
+      "sig": ""
+    },
+    "PK-DEMO-TEST-0003": {
+      "key": "PK-DEMO-TEST-0003",
+      "status": "active",
+      "expires_at": "2026-12-31",
+      "domains": ["demo.playkoro.com"],
+      "install_id": "",
+      "note": "Demo / staging",
+      "nonce": "",
+      "sig": ""
+    },
+    "PK-OLD-CLIENT-0004": {
+      "key": "PK-OLD-CLIENT-0004",
+      "status": "revoked",
+      "expires_at": "2026-01-01",
+      "domains": ["oldclient.com"],
+      "install_id": "",
+      "note": "Revoked - kill switch example",
+      "nonce": "",
+      "sig": ""
     }
-]
+  },
+  "generated_at": "2026-08-23T09:00:00+00:00"
+}
